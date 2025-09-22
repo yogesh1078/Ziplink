@@ -65,3 +65,13 @@ GET /:shortCode
 Yogesh - [@yogesh1078](https://github.com/yogesh1078)
 
 Project Link: [https://github.com/yogesh1078/Ziplink](https://github.com/yogesh1078/Ziplink)
+
+## Documentation
+
+For detailed system architecture and design documentation, see the [`docs/`](docs/) directory:
+
+- [`docs/system-design.tex`](docs/system-design.tex) - LaTeX source for system design document
+- [`docs/system-design.pdf`](docs/build/system-design.pdf) - Compiled PDF documentation
+- [`docs/README.md`](docs/README.md) - Documentation build instructions
+
+The system design document includes comprehensive diagrams with optimized placement strategies to ensure diagrams appear close to their related text sections.
