@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}System Architecture Overview}{2}{section.2}%
+\contentsline {section}{\numberline {3}Frontend Architecture}{2}{section.3}%
+\contentsline {section}{\numberline {4}Backend API Design}{3}{section.4}%
+\contentsline {section}{\numberline {5}Database Schema}{3}{section.5}%
+\contentsline {section}{\numberline {6}URL Shortening Algorithm}{3}{section.6}%
+\contentsline {section}{\numberline {7}Security Considerations}{5}{section.7}%
+\contentsline {section}{\numberline {8}Deployment Architecture}{5}{section.8}%
+\contentsline {section}{\numberline {9}Performance Optimization}{6}{section.9}%
+\contentsline {section}{\numberline {10}Conclusion}{6}{section.10}%
