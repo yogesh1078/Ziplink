@@ -48,3 +48,5 @@ coverage/
 *.pid
 *.seed
 *.tgz
+# LaTeX build directory
+docs/build/
